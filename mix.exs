@@ -32,6 +32,10 @@ defmodule PhxApp.Mixfile do
   # Specifies your project dependencies.
   #
   # Type `mix help deps` for examples and options.
+
+# 	FOR TESTING
+
+
   defp deps do
     [
       {:phoenix, "~> 1.3.3"},
@@ -68,3 +72,4 @@ defmodule PhxApp.Mixfile do
     ]
   end
 end
+
